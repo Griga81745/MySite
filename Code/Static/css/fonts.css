@@ -1,0 +1,46 @@
+@font-face {
+font-family: 'HelveticaLTStd';
+
+    src:    url('https://nomail.com.ua/files/eot/09fbf0911aa25976c6a2d5c4e914be4a.eot?#iefix') format('embedded-opentype'),
+            url('https://nomail.com.ua/files/woff/09fbf0911aa25976c6a2d5c4e914be4a.woff') format('woff'),
+            url('https://nomail.com.ua/files/woff2/09fbf0911aa25976c6a2d5c4e914be4a.woff2') format('woff2');
+}
+
+@font-face {
+  font-family: 'Helvetica LT Std Condensed';
+  src: url('../fonts/HelveticaLTStd-Cond.eot');
+  src: url('../fonts/HelveticaLTStd-Cond.eot?#iefix') format('embedded-opentype'),
+  url('../fonts/HelveticaLTStd-Cond.woff') format('woff'),
+  url('../fonts/HelveticaLTStd-Cond.ttf') format('truetype');
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'Helvetica LT Std Fractions Bold';
+  src: url('../fonts/HelveticaLTStd-FractionsBd.eot');
+  src: url('../fonts/HelveticaLTStd-FractionsBd.eot?#iefix') format('embedded-opentype'),
+  url('../fonts/HelveticaLTStd-FractionsBd.woff') format('woff'),
+  url('../fonts/HelveticaLTStd-FractionsBd.ttf') format('truetype');
+  font-weight: normal;
+  font-style: normal;
+}
+@font-face {
+  font-family: 'Helvetica LT Std Condensed Light';
+  src: url('../fonts/HelveticaLTStd-LightCond.eot');
+  src: url('../fonts/HelveticaLTStd-LightCond.eot?#iefix') format('embedded-opentype'),
+  url('../fonts/HelveticaLTStd-LightCond.woff') format('woff'),
+  url('../fonts/HelveticaLTStd-LightCond.ttf') format('truetype');
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'Helvetica LT Std Roman';
+  src: url('HelveticaLTStd-Roman.eot');
+  src: url('HelveticaLTStd-Roman.eot?#iefix') format('embedded-opentype'),
+  url('HelveticaLTStd-Roman.woff') format('woff'),
+  url('HelveticaLTStd-Roman.ttf') format('truetype');
+  font-weight: normal;
+  font-style: normal;
+}
